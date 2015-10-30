@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts on squareorb </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://squareorb.github.io/post/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Fri, 30 Oct 2015 09:06:31 EDT</updated>
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://squareorb.github.io/post/Welcome/</link>
+      <pubDate>Fri, 30 Oct 2015 09:06:31 EDT</pubDate>
+      
+      <guid>http://squareorb.github.io/post/Welcome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
