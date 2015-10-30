@@ -15,11 +15,13 @@
       <pubDate>Fri, 30 Oct 2015 09:06:31 EDT</pubDate>
       
       <guid>http://squareorb.github.io/post/Welcome/</guid>
-      <description>&lt;p&gt;#This is a test post&lt;/p&gt;
+      <description>
+
+&lt;h1 id=&#34;this-is-a-test-post:3a510a72664df37c3ae2a2335d277d64&#34;&gt;This is a test post&lt;/h1&gt;
 
 &lt;p&gt;Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah&lt;/p&gt;
 
-&lt;p&gt;##That was fun&lt;/p&gt;
+&lt;h2 id=&#34;that-was-fun:3a510a72664df37c3ae2a2335d277d64&#34;&gt;That was fun&lt;/h2&gt;
 </description>
     </item>
     
